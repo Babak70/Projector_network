@@ -19,7 +19,8 @@ Two versions of dataset one with 1k examples and the other with 20k examples are
 
 
 # How to run the codes?
-Deponding on the dataset size (1k or 20k), the appropirate script "eye_train.py" should be executed. With that, the model (D and G sub-networks) starts to be trained. On a standard PC with Core i7-9800X CPU @3.8 GHz and 32GB RAM, the training takes about X hrs. Once the training is finished, the matlab-script is automatically run. After execution of the matlab-script the projected images are obtained and stored in the file "output_images". This process can be repeated for a second and more number of times. The dataset are automatically updated after each round. For this, the variable "number_of_iterations" in the file "eye_train.py" must be changed (default is 1). In addition to "output_images" which contains all projected images, some sample images are also provided in a PNG format.
+Deponding on the dataset size (1k or 20k), the appropirate script "eye_train.py" should be executed. With that, the model (D and G sub-networks) starts to be trained. On a standard PC with Core i7-9800X CPU @3.8 GHz and 32GB RAM, the training takes about X hrs. Once the training is finished, the matlab-script is automatically run. After execution of the matlab-script the projected images are obtained and stored in the file "output_images". This process can be repeated for a second and more number of times. The dataset are automatically updated after each round. For this, the variable "number_of_iterations" in the file "eye_train.py" must be changed (default is 1). In addition to "output_images" which contains all projected images, some sample images are also provided in PNG formats.
+# Additional information
 
 
 
