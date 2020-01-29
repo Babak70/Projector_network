@@ -7,7 +7,7 @@ The source code as well as the dataset accompanying the paper "Competing neural 
 
 
 # Software-requirements
-The neural network (NN) training has been implemented via a python-based costum script using Tensorflow. Any stable version of tensorflow (strictly below 2.0) and python 3 are good to use (we have used Python 3.7.3 and Tensorflow version 1.13.1). The outputs of the NN are subsequently processed by a matlab-based script. For an authomatic calling of the MATLAB-engine within python, the python package "MATLAB Engine API" should be pre-installed. Straight-forward instructions on how to install the required packages can be found here: (https://ch.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html). Our version of Matlab is R2019a.
+The neural network (NN) training has been implemented via a python-based costum script using Tensorflow on Windows 10 OS. Any stable version of tensorflow (strictly below 2.0) and python 3 are good to use (we have used Python 3.7.3 and Tensorflow version 1.13.1). The outputs of the NN are subsequently processed by a matlab-based script. For an authomatic calling of the MATLAB-engine within python, the python package "MATLAB Engine API" should be pre-installed. Straight-forward instructions on how to install the required packages can be found here: (https://ch.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html). Our version of Matlab is R2019a.
 
 
 # Hardware-requirements
