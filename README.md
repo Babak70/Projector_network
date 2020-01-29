@@ -6,8 +6,7 @@ Data and code for the article "Competing neural networks for the robust control 
 
 
 # Software-requirements
-Python 3.7.3
-Tensorflow version 
+The neural network training has been implemented via a python based costum-script using Tensorflow library. Any stable versions of tensorflow (necessarily below 2.0) and python 3 are good to use (we have used Python 3.7.3 and Tensorflow version 1.13.1). As the 
 
 Matlab engine
 
