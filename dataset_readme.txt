@@ -9,5 +9,5 @@ this file is updated with projected images that are obtained using the solutions
 this file is updated with a solutions predicted by the network.
 
 
-3- train_labelsF_1.bin: Contains examples of the imaginary part of the 2D inputs solutions found by the network. Initially it is a set of 1k\20k, 51x51 random numbers. After the first round of training
+4- train_labelsF_1.bin: Contains examples of the imaginary part of the 2D inputs solutions found by the network. Initially it is a set of 1k\20k, 51x51 random numbers. After the first round of training
 this file is updated with a solutions predicted by the network.
