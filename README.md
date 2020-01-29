@@ -12,6 +12,17 @@ The neural network (NN) training has been implemented via a python-based costum 
 # Hardware-requirements
 Our costum-scripts have been executed on an NVIDIA GTX 1080 Titan GPU. Be advised that execution of the code without GPU-backed machinces (CPU only) considerably increases the convergence time.
 
+
+# Data repository
+
+Two versions of dataset one with 1k examples and the other with 20k examples are provided which can be found here and here.
+
+
+# How to run the codes?
+
+
+
+
 # Reference
 If you use this code, please cite the following paper:
 arXiv version: https://arxiv.org/abs/1907.00126
