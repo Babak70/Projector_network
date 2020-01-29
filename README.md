@@ -15,7 +15,7 @@ Our costum-scripts have been executed on an NVIDIA RTX 2080 Titan GPU. Be advise
 
 # Data repository
 
-Two versions of dataset one with 1k examples and the other with 20k examples are provided which can be found here and here. The "dataset_readme.txt" explain each one in detail.
+Two versions of dataset one with 1k examples and the other with 20k examples are provided which can be found here and here. The "dataset_readme.txt" explains each one in detail.
 
 
 # How to run the codes?
