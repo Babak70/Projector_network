@@ -6,7 +6,8 @@ Data and source code for the article "Competing neural networks for the robust c
 
 
 # Software-requirements
-The neural network (NN) training has been implemented via a python-based costum script using the Tensorflow library. Any stable versions of tensorflow (strictly below 2.0) and python 3 are good to use (we have used Python 3.7.3 and Tensorflow version 1.13.1). Since the generated data by the NN is picked up by a matlab-based script subsequently, the python package "Matlab engine" should be installed. 
+The neural network (NN) training has been implemented via a python-based costum script using Tensorflow. Any stable version of tensorflow (strictly below 2.0) and python 3 are good to use (we have used Python 3.7.3 and Tensorflow version 1.13.1). The outputs of the NN are subsequently processed by a matlab-based script. For an authomatic calling of the MATLAB-engine within python, the python package "MATLAB Engine API" should be pre-installed. straight-forward instructions on how to install the required packages can be found https://ch.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html
+
 
 Matlab engine
 
