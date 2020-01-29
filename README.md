@@ -10,16 +10,16 @@ The neural network (NN) training has been implemented via a python-based costum 
 
 
 # Hardware-requirements
-Our costum-scripts have been executed on an NVIDIA GTX 1080 Titan GPU. Be advised that execution of the code without GPU-backed machinces (CPU only) considerably increases the convergence time.
+Our costum-scripts have been executed on an NVIDIA RTX 2080 Titan GPU. Be advised that execution of the code without GPU-backed machinces (CPU only) considerably increases the convergence time.
 
 
 # Data repository
 
-Two versions of dataset one with 1k examples and the other with 20k examples are provided which can be found here and here.
+Two versions of dataset one with 1k examples and the other with 20k examples are provided which can be found here and here. 
 
 
 # How to run the codes?
-
+Deponding on the dataset size (1k or 20k), the appropirate script "eye_train.py" should be executed. With that, the model (D and G sub-networks) starts to be trained. On a standard PC with Core i7-9800X CPU @3.8 GHz and 32GB RAM, the training takes about X hrs. Once the training is finished, the matlab-script is automatically run. After execution of the matlab-script the projected images are obtained and stored in the file "Output_images". This process can be repeated for a second and more number of times. The dataset are being automatically updated. To do this, change the variable "number_of_iterations" in the file "eye_train.py" (default is 1).
 
 
 
