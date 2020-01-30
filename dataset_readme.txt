@@ -21,4 +21,8 @@ For runnig the demo (pre-trained model) 2 data files are required:
 
 1- eval_dataF.bin: contains 1k examples of 2D target images of size 200x200.
 
-2- eval_labelsF.bin: contains 1k all-zero 2D input patterns of size 51x51 (dummy variable).
+2- eval_labelsF.bin: contains 1k all-zero 2D input patterns of size 51x51 (dummy variable) should already be in demo directory (otherwise download).
+
+3- transmit.mat: contains the forward transfer function of the system (forward propagation of the light through the fiber)
+
+4- fiber10_train: the pre-trained model
