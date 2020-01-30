@@ -17,7 +17,7 @@ Our costum-scripts have been executed on an NVIDIA RTX 2080 Titan GPU. Be advise
 
 
 # Data repository
-Two versions of dataset one with 1k examples and the other with 20k examples are provided which can be found here and here. The "dataset_readme.txt" explains each one in detail.
+A dataset containing 20k examples of the EMNIST target images, initial random 2D input patterns (real and imaginary) and their corresponding output patterns is provided which can be used to train the network from the scratch. It can be downloaded from here. A smaller dataset containing 1k examples of EMNIST target images is also provided for demo. The "dataset_readme.txt" explains each one in detail.
 
 
 # How to run the codes?
