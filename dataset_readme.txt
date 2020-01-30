@@ -1,5 +1,5 @@
 ===========================================================================================
-For training the script, 4 data files are required:
+For training the script, 5 data files are required:
 
 1- train_dataF.bin:    contains examples of the 2D outputs of the system. Initially it is a set of 20k, 200x200 random outputs. After the first round of training
 this file is updated with projected images that are obtained using the solutions found by the network.
@@ -14,6 +14,7 @@ this file is updated with a solutions predicted by the network.
 this file is updated with a solutions predicted by the network.
 
 
+5- transmit.mat: contains the forward transfer function of the system (forward propagation of the light through the fiber)
 
 
 ===========================================================================================
