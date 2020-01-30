@@ -7,13 +7,13 @@ The source code as well as the dataset accompanying the paper "Competing neural 
 
 
 # Software-requirements
-The neural network (NN) training has been implemented via a python-based costum script using Tensorflow installed on Windows 10 OS. Any stable version of tensorflow (strictly below 2.0) and python 3 can be be used (we have used Python 3.7.3 and Tensorflow version 1.13.1). Tensorflow can be installed straightforwardly as intructed here https://www.tensorflow.org/ . 
+The neural network (NN) training has been implemented via a python-based costume script using Tensorflow installed on Windows 10 OS. Any stable version of tensorflow (strictly below 2.0) and python 3 can be used (we have used Python 3.7.3 and Tensorflow version 1.13.1). Tensorflow can be installed straightforwardly as instructed here https://www.tensorflow.org/ . 
 
-The outputs of the NN are subsequently processed by a matlab-based script. For an authomatic calling of the MATLAB-engine within python, the python package "MATLAB Engine API" should be pre-installed. Instructions on how to install the required packages can be found here: (https://ch.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html). We have used Matlab version R2019a.
+The outputs of the NN are subsequently processed by a matlab-based script. For an automatic calling of the MATLAB-engine within python, the python package "MATLAB Engine API" should be pre-installed. Instructions on how to install the required packages can be found here: (https://ch.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html). We have used Matlab version R2019a.
 
 
 # Hardware-requirements
-Our costum-scripts have been executed on an NVIDIA RTX 2080 Titan GPU. Be advised that execution of the code without GPU-backed machinces (CPU only) considerably increases the convergence time.
+Our costume-scripts have been executed on an NVIDIA RTX 2080 Titan GPU. Be advised that execution of the code without GPU-backed machines (CPU only) considerably increases the convergence time.
 
 
 # Data repository
@@ -33,5 +33,3 @@ A demo of the neural network trained with 20k EMNIST dataset together with examp
 # Reference
 If you use this code, please cite the following paper:
 arXiv version: https://arxiv.org/abs/1907.00126
-  
-
