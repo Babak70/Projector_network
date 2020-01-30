@@ -204,7 +204,7 @@ def main(argv=None):
     """
     number_of_iterations=1   
     NUMTRAIN_SAMPLES0=20000 
-    countee=2
+    countee=1
     sum_steps=40000
     Replace_and_Add=0
     if Replace_and_Add==1:
