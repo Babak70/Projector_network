@@ -3,7 +3,7 @@ Data and code for the article "Competing neural networks for the robust control 
 
 
 # Description
-The source code as well as the dataset accompanying the paper "Competing neural networks for the robust control of non-linear systems" by B. Rahmani, D. Loterie, E. Kakkava, N. Borhani, U. Tegin, D. Psaltis and C. Moser is provided. The given scripts implement an algorithm for generating the required 2D input of a given system that would result in a desired target output. Here we showcase this proof-of-the-concept algorithm for projecting desired target images through the highly scattering medium of multi-mode optical fibers. 
+The source code as well as the dataset accompanying the paper "Competing neural networks for the robust control of non-linear systems" by Rahmani et. al. is provided. The given scripts implement an algorithm for generating the required 2D input of a given system that would result in a desired target output. Here we showcase this proof-of-the-concept algorithm for projecting desired target images through the highly scattering medium of multi-mode optical fibers. 
 
 
 # Software-requirements
