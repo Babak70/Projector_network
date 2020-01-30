@@ -26,9 +26,6 @@ For training the neural network, the script "eye_train.py" should be executed. P
 # Demo
 A demo of the neural network trained with 20k EMNIST dataset together with examples of the 2D input solutions as well as their corresponding outputs (in PNG) are provided. To run the demo with the toy dataset of 1k EMNIST follow the instructions in the "Demo_readme.txt" file.
 
-# Additional information
-
-
 
 # Reference
 If you use this code, please cite the following paper:
