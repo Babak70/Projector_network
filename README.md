@@ -1,9 +1,9 @@
 # Projector_network
-Data and code for the article "Competing neural networks for the robust control of non-linear systems" currently under review and available on arXiv (https://arxiv.org/abs/1907.00126).
+Data and code for the article "Actor neural networks for the robust control of partially measured nonlinear systems showcased for image propagation through diffuse media" published in Nature machine intelligence: https://www.nature.com/articles/s42256-020-0199-9
 
 
 # Description
-The source code as well as the dataset accompanying the paper "Competing neural networks for the robust control of non-linear systems" by Rahmani et. al. is provided. The given scripts implement an algorithm for generating the required 2D input of a given system that would result in a desired target output. Here we showcase this proof-of-the-concept algorithm for projecting desired target images through the highly scattering medium of multi-mode optical fibers. 
+The source code as well as the dataset accompanying the paper "Actor neural networks for the robust control of partially measured nonlinear systems showcased for image propagation through diffuse media" by Rahmani et. al. is provided. The given scripts implement an algorithm for generating the required 2D input of a given system that would result in a desired target output. Here we showcase this proof-of-the-concept algorithm for projecting desired target images through the highly scattering medium of multi-mode optical fibers. 
 
 
 # Software-requirements
@@ -29,4 +29,6 @@ A demo of the neural network trained with 20k EMNIST dataset together with examp
 
 # Reference
 If you use this code, please cite the following paper:
+https://www.nature.com/articles/s42256-020-0199-9
+
 arXiv version: https://arxiv.org/abs/1907.00126
