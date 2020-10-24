@@ -17,7 +17,7 @@ Our costume-scripts have been executed on an NVIDIA RTX 2080 Titan GPU. Be advis
 
 
 # Data repository
-A dataset containing 20k examples of the EMNIST target images, initial random 2D input patterns (real and imaginary) and their corresponding output patterns is provided which can be used to train the network from the scratch. A smaller dataset containing 1k examples of EMNIST target images is also provided for demo. The "dataset_readme.txt" explains each one in detail. The download link is here: https://drive.google.com/drive/folders/1MaqK-LLEJjezrUjPEWzHR8iGdYNXeq8g?usp=sharing
+A dataset containing 20k examples of the EMNIST target images, initial random 2D input patterns (real and imaginary) and their corresponding output patterns is provided which can be used to train the network from the scratch. A smaller dataset containing 1k examples of EMNIST target images is also provided for demo. The "dataset_readme.txt" explains each one in detail. The download link is here: https://drive.google.com/drive/folders/1IqPgje3P2GYrMkHSFipG2Pb5r-Q_j33V?usp=sharing
 
 
 # How to run the codes?
